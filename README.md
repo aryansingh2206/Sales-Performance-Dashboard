@@ -3,7 +3,11 @@
 # Pharmaceutical Sales Analysis
 In this ‘Data Analysis’ project, we’ll analyze a global Pharmaceutical Manufacturing Company's raw sales data and draw meaningful insights.
 
-<img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/pharma-title-image.png?raw=true" width="1000" height="500" />
+<img 
+  src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/pharma-title-image.png?raw=true" 
+  width="1000" 
+  height="500"
+/>
 
 ## Features
 ⚡PowerBI Desktop   

@@ -4,10 +4,11 @@
 In this ‘Data Analysis’ project, we’ll analyze a global Pharmaceutical Manufacturing Company's raw sales data and draw meaningful insights.
 
 <img 
-  src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/pharma-title-image.png?raw=true" 
-  width="1000" 
+  src="https://cuspera-category-images.s3.us-east-2.amazonaws.com/image_sales-analytics-v10.png" 
+  width="1000"
   height="500"
 />
+
 
 ## Features
 ⚡PowerBI Desktop   

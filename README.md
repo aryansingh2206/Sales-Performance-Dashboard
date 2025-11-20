@@ -129,7 +129,7 @@ Minimal cleanup was needed as data was structured well:
 
 The dataset contained both dimensions and facts in one table. A star schema was built by splitting them and defining relationships.
 
-<img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/data-model.png?raw=true"/>
+<img src="https://github.com/aryansingh2206/Sales-Performance-Dashboard/blob/master/images/data-model.png"/>
 
 Dimension tables are prefixed with `DIM`, and the sales table is represented as `FACT`.
 
@@ -141,19 +141,19 @@ Dimension tables are prefixed with `DIM`, and the sales table is represented as 
 
 Overall performance indicators with drill-down capability.
 
-<img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/exec-summary-page.png?raw=true"/>
+<img src="https://github.com/aryansingh2206/Sales-Performance-Dashboard/blob/master/images/dist-cust-analysis-page.png"/>
 
 #### **2️⃣ Distributor & Customer Analysis**
 
 Focuses on buyer behavior and sales contribution by distributors and cities.
 
-<img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/dist-cust-analysis-page.png?raw=true"/>
+<img src="https://github.com/aryansingh2206/Sales-Performance-Dashboard/blob/master/images/pharma-feature-image.png"/>
 
 #### **3️⃣ Sales Team Performance**
 
 Breakdown by teams, managers, and individual reps.
 
-<img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/sales-team-perform-page.png?raw=true"/>
+<img src="https://github.com/aryansingh2206/Sales-Performance-Dashboard/blob/master/images/sales-team-perform-page.png"/>
 
 ---
 

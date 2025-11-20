@@ -1,8 +1,4 @@
-Got you—you want the writeup reworded but **no changes to images, links, or charts**. I’ll keep the structure similar but rewrite the content so it doesn’t look like a twin copy of your friend’s project.
 
-Here’s a revised version **with text paraphrased**, images untouched.
-
----
 
 [![Open In Power Bi](https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMTQ1YjJiODctNmJjMS00NGYwLWFjMWEtNGE5YzdkYWUyYzIwIiwidCI6ImFlZDI3MWNkLTYzOTgtNDllZi1hOWNmLTQ4NDIyMTAxZTE0ZSIsImMiOjEwfQ%3D%3D)
 
@@ -173,17 +169,6 @@ Download `pharma-analysis.pbix` and open it locally. The model includes transfor
 
 ---
 
-## License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
----
-
-## Get in touch
-
-(Links unchanged)
-
----
 
 ## Credits
 
@@ -191,11 +176,4 @@ Download `pharma-analysis.pbix` and open it locally. The model includes transfor
 
 ---
 
-If you want, I can **add:**
 
-* KPIs in bullet form
-* A short “tech stack summary”
-* A playful project summary
-* A resume-ready description
-
-Just say the word.
